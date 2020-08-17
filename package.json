@@ -1,0 +1,25 @@
+{
+    "name": "quill",
+    "displayName": "Quill",
+    "description": "A Truly Dark vscode color theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.48.0"
+    },
+    "scripts": {
+      "package": "vsce package",
+      "publish": "vsce publish"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Quill",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Quill-color-theme.json"
+            }
+        ]
+    }
+}
