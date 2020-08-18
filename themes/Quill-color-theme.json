@@ -120,7 +120,7 @@
       "gitDecoration.modifiedResourceForeground": "#988bc7",
       "gitDecoration.deletedResourceForeground": "#E96379",
       "gitDecoration.untrackedResourceForeground": "#67e480",
-      "gitDecoration.ignoredResourceForeground": "#1b171c",
+      "gitDecoration.ignoredResourceForeground": "#41414D",
       "gitDecoration.conflictingResourceForeground": "#E89E64",
       "diffEditor.insertedTextBackground": "#67e48020",
       "diffEditor.removedTextBackground": "#E9637950",
