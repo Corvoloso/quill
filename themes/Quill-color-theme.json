@@ -101,7 +101,7 @@
       "editorIndentGuide.background": "#FFFFFF1A",
       "editorIndentGuide.activeBackground": "#E1E1E645",
       "editorRuler.foreground": "#FFFFFF1A",
-      "editorCodeLens.foreground": "#1b171c",
+      "editorCodeLens.foreground": "#E1E1E645",
       "editorOverviewRuler.border": "#090909",
       "editorOverviewRuler.selectionHighlightForeground": "#E89E64",
       "editorOverviewRuler.wordHighlightForeground": "#988bc7",
