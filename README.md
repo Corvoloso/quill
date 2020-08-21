@@ -22,11 +22,12 @@
 
 ## 🖤 About the project
 Intended to be a Dracula but black, i've used the Omni theme from @Rocketseat
-base and turned the lights off.
+as base for the theme and turned the lights off.
 
 ## 🚀 How to use
-
 The project isn't on the VSCode Marketplace **yet**, if you want to use it nowadays you have to do it manually.
+
+**Clone the project into the vscode extensions folder**
 
 ```bash
 # you need to enter the extensions file of your vscode. (in windows or mac)
@@ -34,7 +35,11 @@ $ cd ~/.vscode/extensions
 
 # in the extensions folder clone the project
 $ git clone https://github.com/Corvoloso/quill.git
+```
 
+**Change the theme in vscode**
+
+```bash
 # now open the VSCode menu "show all commands" usually with ctrl/command + shift + p, and search for "Color Theme" to change it
 # if in doubt check your vscode shortcuts.
 ```
